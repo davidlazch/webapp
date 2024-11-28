@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# webapp
-=======
 # Application Web avec un système de connexion/inscription
 
 
@@ -28,4 +25,3 @@ Si vous souhaitez a le démarrer en mode de développement:
 Quand vous avez réussi l'exercice, vous pouvez le construire avec [1] et le démarrer avec [2]:
   1. *npm run build*
   2. *node build*
->>>>>>> a4c1128 (Initial Commit: Version 1.0)
